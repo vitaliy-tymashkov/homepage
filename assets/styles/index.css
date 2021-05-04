@@ -1,0 +1,12 @@
+footer
+{
+    position: inherit;
+    margin: 10px;
+    position: relative;
+    height: inherit;
+    width: inherit;
+}
+
+iframe {
+    border: none;
+}
